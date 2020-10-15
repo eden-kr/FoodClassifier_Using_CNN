@@ -13,7 +13,10 @@ Provides nutritional information for selected images </br></br>
 ## Development Environment
 <div>
 <li>MySQL @8.0.21</li>
-<li>python 3.7.4</li>
+<li>Python 3.7.4</li>
+  <li>Keras 2.3.1</li>
+  <li>tensorflow 1.14.0</li>
+  <li>matPlitlib 3.1.1 </li>
 </div>
 
 
