@@ -12,8 +12,10 @@ Provides nutritional information for selected images </br></br>
 
 ## Development Environment
 <div>
-<li>Android Studio @3.6.2</li>
+<li>MySQL @8.0.21</li>
+<li>python 3.7.4</li>
 </div>
+
 
 ## Images
 <div>
